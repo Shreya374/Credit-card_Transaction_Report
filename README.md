@@ -81,15 +81,4 @@ This repository hosts a Power BI solution designed to deliver enterprise-grade i
 
 
 
-## Contributing
 
-Contributions are welcome under the following guidelines:  
-1.  
-   Fork the repository and create a feature branch (e.g., `feature/enhanced-dax-metric`).  
-2.  
-   Submit Power BI `.pbix` changes with accompanying documentation in `/docs`.  
-3.  
-   Open a pull request against `main` for review.  
-
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
